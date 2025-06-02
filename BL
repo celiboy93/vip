@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1f23b36b02a4cee6",
+    "key": "112233",
+    "expiresAt": "2025-06-03",
+    "allowOffline": false
+  },
+  {
+    "id": "ali456",
+    "key": "key2",
+    "expiresAt": "2025-06-15",
+    "allowOffline": false
+  }
+]
