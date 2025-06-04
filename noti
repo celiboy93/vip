@@ -1,8 +1,22 @@
 {
-  "autoShowEnabled": true,
-  "autoShowType": "success",
-  "success": { "enabled": true, "message": "Developed By Patgaduu https://t.me/androidmod_ar!", "duration": 2000 },
-  "error":   { "enabled": true, "message": "Oops error!", "duration": 3000 },
-  "warning": { "enabled": true, "message": "Careful!", "duration": 2500 },
-  "info":    { "enabled": true, "message": "Heads up!", "duration": 1800 }
+  "enabled": true,
+  "show_after": "2025-06-03",
+  "force_update": false,
+  "title": "Update Available",
+  "message": "A new version is ready. Please update for best experience. join my chanel for more @android_modding_tools",
+  "link_text": "See details",
+  "link_url": "https://t.me/android_modding_tools",
+  "buttons": [
+    {
+      "text": "Update Now",
+      "action": "url",
+      "target": "https://t.me/androidmod_ar",
+      "style": "primary"
+    },
+    {
+      "text": "Later",
+      "action": "dismiss",
+      "style": "secondary"
+    }
+  ]
 }
