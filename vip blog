@@ -1,4 +1,4 @@
 [
-  {"vipKey": "ABCDEF", "expiry": "2026-12-31T23:59:59"},
+  {"vipKey": "ABC", "expiry": "2026-12-31T23:59:59"},
   {"vipKey": "IJKLMN12", "expiry": "2025-12-31T23:59:59"}
 ]
